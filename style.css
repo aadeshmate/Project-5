@@ -1,0 +1,35 @@
+body{
+    background-color: chartreuse;
+}
+nav{
+    margin: 50px 40px;
+    border: 2px solid orange;
+}
+img{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+h1{
+    font-weight: bold;
+    font-size: 3rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.aboutpara{
+    padding: 20px;
+}
+h4{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+table{
+    margin: 40px;
+}
+li a{
+    color: black;
+}
+ul{
+    padding: 20px;
+}
